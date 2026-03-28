@@ -3,8 +3,13 @@
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                    ANIMATED TOP BANNER                    -->
 <!-- ══════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4aa,100:0d1117&height=200&section=header&text=Raghav%20Agrawal&fontSize=60&fontColor=00d4aa&animation=fadeIn&fontAlignY=38&desc=MCA%20Graduate%20%7C%20Developer%20%7C%20Data%20Analytics%20Enthusiast&descAlignY=58&descSize=18&descColor=8b949e"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Raghav%20Agrawal&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=38&desc=MCA%20Student%20%7C%20Developer%20%7C%20Data%20Analytics%20Enthusiast&descSize=20&descAlignY=58&descColor=00d4aa" />
+</div>
+
+<div align="center">
+
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Raghav%20Agrawal&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=38&desc=MCA%20Student%20%7C%20Developer%20%7C%20Data%20Analytics%20Enthusiast&descSize=20&descAlignY=58&descColor=00d4aa" /> -->
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                   TYPING ANIMATION                        -->
@@ -220,6 +225,6 @@ me = RaghavAgrawal()
 
 **✦ Thanks for visiting! Drop a ⭐ on any repo you like — it means a lot! ✦**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4aa,100:0d1117&height=130&section=footer" />
 
 </div>
