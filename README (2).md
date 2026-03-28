@@ -104,17 +104,19 @@ me = RaghavAgrawal()
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
 
-## <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raghav-1242004&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-
-## <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raghav-1242004&layout=compact&theme=github_dark" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raghav-1242004&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raghav-1242004&layout=compact&theme=github_dark" />
 
 </div>
 
+<br>
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=raghav-1242004&theme=github-dark-blue&border=00d4aa&ring=00d4aa&fire=f97316&currStreakLabel=00d4aa&sideNums=00d4aa&dates=6e7681)](https://git.io/streak-stats)
+<img width="70%" src="https://streak-stats.demolab.com?user=raghav-1242004&theme=github-dark-blue&border=00d4aa&ring=00d4aa&fire=f97316&currStreakLabel=00d4aa&sideNums=00d4aa&dates=6e7681" />
 
 </div>
 
@@ -130,7 +132,7 @@ me = RaghavAgrawal()
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raghav-1242004/raghav-1242004/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raghav-1242004/raghav-1242004/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/raghav-1242004/raghav-1242004/output/github-contribution-grid-snake.svg">
+  <!-- <img alt="contribution snake" src="https://raw.githubusercontent.com/raghav-1242004/raghav-1242004/output/github-contribution-grid-snake.svg"> -->
 </picture>
 </div>
 
