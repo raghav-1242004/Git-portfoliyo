@@ -106,9 +106,9 @@ me = RaghavAgrawal()
 
 <div align="center">
 
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=raghav-1242004&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&text_color=c9d1d9&bg_color=0d1117" />
-&nbsp;
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav-1242004&layout=compact&theme=github_dark&border_color=00d4aa&title_color=00d4aa&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+<img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raghav-1242004&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+
+<img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raghav-1242004&layout=compact&theme=github_dark" />
 
 </div>
 
