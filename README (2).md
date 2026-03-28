@@ -106,18 +106,20 @@ me = RaghavAgrawal()
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raghav-1242004&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raghav-1242004&layout=compact&theme=github_dark" />
+<img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raghav-1242004&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+
+<img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raghav-1242004&layout=compact&theme=github_dark" />
 
 </div>
-
-<br>
 
 <div align="center">
 
-<img height="150" src="https://streak-stats.demolab.com?user=raghav-1242004&theme=github-dark-blue&border=00d4aa&ring=00d4aa&fire=f97316&currStreakLabel=00d4aa&sideNums=00d4aa&dates=6e7681" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=raghav-1242004&theme=github-dark-blue&border=00d4aa&ring=00d4aa&fire=f97316&currStreakLabel=00d4aa&sideNums=00d4aa&dates=6e7681)](https://git.io/streak-stats)
 
 </div>
+
+<div align="center">
+
 <!-- Activity Graph -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raghav-1242004&theme=github-compact&bg_color=0d1117&color=00d4aa&line=6366f1&point=f97316&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
